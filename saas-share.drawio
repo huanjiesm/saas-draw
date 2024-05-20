@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2024-05-20T12:47:42.931Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="EZiJQSNUsD_fxBnQPFBF" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-20T12:58:01.639Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="wGzgNSGk3SSzbDJVZowc" version="24.4.4" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="989" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1366" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="OeMKXiN0BVXy0U2ra45k-33" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="1060" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="OeMKXiN0BVXy0U2ra45k-36" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="80" y="440" width="1060" height="680" as="geometry" />
+        </mxCell>
         <mxCell id="lVyp8B9EThQlE34AcMOO-4" value="Console-APP" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="560" y="80" width="100" height="1040" as="geometry" />
         </mxCell>
@@ -107,7 +113,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lVyp8B9EThQlE34AcMOO-31" value="返回（&lt;font color=&quot;#ff3333&quot;&gt;header新增x-metadata&lt;/font&gt;）" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" edge="1">
+        <mxCell id="lVyp8B9EThQlE34AcMOO-31" value="返回（&lt;font color=&quot;#ff3333&quot;&gt;header新增ShareCode&lt;/font&gt;）" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" edge="1">
           <mxGeometry x="0.0046" relative="1" as="geometry">
             <mxPoint x="458" y="780" as="targetPoint" />
             <Array as="points" />
@@ -182,7 +188,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OeMKXiN0BVXy0U2ra45k-21" value="保存课件（&lt;font color=&quot;#ff3333&quot;&gt;携带header：x-metadata&lt;/font&gt;）" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=1;strokeColor=default;align=center;fontColor=default;" edge="1" parent="1">
+        <mxCell id="OeMKXiN0BVXy0U2ra45k-21" value="保存课件（&lt;font color=&quot;#ff3333&quot;&gt;携带header：ShareCode&lt;/font&gt;）" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=1;strokeColor=default;align=center;fontColor=default;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="457.25" y="820.5700000000002" as="sourcePoint" />
             <mxPoint x="762.25" y="820.5700000000002" as="targetPoint" />
